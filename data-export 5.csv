@@ -1,0 +1,72 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Uttam Dangi
+# Property: https://sites.google.com/view/aboutupes/home
+# ----------------------------------------
+#  
+# Start date: 20230322
+# End date: 20230418
+Nth day,Total revenue
+
+
+# Start date: 20230322
+# End date: 20230418
+Nth day,Purchase revenue
+
+
+# Start date: 20230322
+# End date: 20230418
+Nth day,Total ad revenue
+
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Nth day,Total purchasers
+
+
+# Start date: 20230322
+# End date: 20230418
+Nth day,First time purchasers
+
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Nth day,Average purchase revenue per user
+
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Item name,Items purchased
+
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Item list name,Items purchased
+
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Item promotion name,Items viewed in promotion
+
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Order coupon,Purchase revenue
+
+
+# What is your revenue from in-app purchases?
+# Start date: 20230322
+# End date: 20230418
+Product ID,Product revenue
+
+
+# What is your revenue per Ad unit?
+# Start date: 20230322
+# End date: 20230418
+Ad unit,Publisher ad impressions

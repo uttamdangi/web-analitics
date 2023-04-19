@@ -1,0 +1,208 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Uttam Dangi
+# Property: https://sites.google.com/view/aboutupes/home
+# ----------------------------------------
+#  
+# Start date: 20230322
+# End date: 20230418
+Nth day,Users
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,2
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,1
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,2
+
+# Start date: 20230322
+# End date: 20230418
+Nth day,New users
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,2
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,1
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,2
+
+# Start date: 20230322
+# End date: 20230418
+Nth day,Average engagement time
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,9.5
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,13
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,3.5
+
+# Start date: 20230322
+# End date: 20230418
+Nth day,Total revenue
+
+
+# Where do your new users come from?
+# Start date: 20230322
+# End date: 20230418
+First user default channel group,New users
+Direct,5
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Session default channel group,Sessions
+Direct,10
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Country ID,Users
+IN,5
+
+# Start date: 20230322
+# End date: 20230418
+Country,Users
+India,5
+
+# How are active users trending?
+# Start date: 20230322
+# End date: 20230418
+Nth day,30 days,7 days,1 day
+0000,0,0,0
+0001,0,0,0
+0002,0,0,0
+0003,0,0,0
+0004,0,0,0
+0005,0,0,0
+0006,0,0,0
+0007,0,0,0
+0008,0,0,0
+0009,0,0,0
+0010,0,0,0
+0011,0,0,0
+0012,0,0,0
+0013,2,2,2
+0014,2,2,0
+0015,2,2,0
+0016,2,2,0
+0017,2,2,0
+0018,2,2,0
+0019,2,2,0
+0020,3,1,1
+0021,3,1,0
+0022,3,1,0
+0023,3,1,0
+0024,3,1,0
+0025,3,1,0
+0026,3,1,0
+0027,5,2,2
+
+# How well do you retain your users?
+# Start date: 20230305
+# End date: 20230415
+Date,Week 0,Week 1,Week 2,Week 3,Week 4,Week 5
+Mar 5 - Mar 11,0,0,0,0,0,0
+Mar 12 - Mar 18,0,0,0,0,0,-1
+Mar 19 - Mar 25,0,0,0,0,-1,-1
+Mar 26 - Apr 1,0,0,0,-1,-1,-1
+Apr 2 - Apr 8,2,0,-1,-1,-1,-1
+Apr 9 - Apr 15,1,-1,-1,-1,-1,-1
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Page title and screen class,Views
+my university,10
+Your Name - About,3
+my university - About,2
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Event name,Event count
+page_view,15
+session_start,10
+user_engagement,7
+first_visit,5
+scroll,4
+
+# What are your top conversions?
+# Start date: 20230322
+# End date: 20230418
+Event name,Conversions
+
+
+#  
+# Start date: 20230322
+# End date: 20230418
+Item name,Items purchased
+
+
+# How does activity on your platforms compare?
+# Start date: 20230322
+# End date: 20230418
+Platform,Conversions

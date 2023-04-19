@@ -1,0 +1,14 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: Uttam Dangi
+# Property: https://sites.google.com/view/aboutupes/home
+# ----------------------------------------
+# 
+# All Users
+# Start date: 20230322
+# End date: 20230418
+
+Page path and screen class,Views,Users,Views per user,Average engagement time,Event count,Conversions,Total revenue
+/view/aboutupes/home,9,3,3,2.3333333333333335,20,0,0
+/view/aboutupes/about,5,2,2.5,9.5,17,0,0
+/view/aboutupes,1,1,1,13,4,0,0
